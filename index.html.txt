@@ -34,7 +34,7 @@
 
   <script>
     function openSurprise() {
-      window.open('date.html', '_blank');
+      window.open('https://pankajj-dalal.github.io/outtt/date.html', '_blank');
     }
   </script>
 </body>
